@@ -1,0 +1,12 @@
+data/
+saved_images/
+__pycache__/
+
+
+*.zip
+*.ipynb
+*.txt
+*.pt
+*.tar
+split_train.py 
+change_mask_filenames.py
