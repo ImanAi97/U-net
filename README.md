@@ -1,8 +1,8 @@
 # Image Segmentation using U-net
 
-In this project we are goint to tackle Carvana Image Masking Challenge from kaggle.<br>
+In this project we are goint to tackle <b>Carvana Image Masking Challenge</b> from kaggle.<br>
 
-the dataset can be found here https://www.kaggle.com/competitions/carvana-image-masking-challenge/data
+Dataset can be found here https://www.kaggle.com/competitions/carvana-image-masking-challenge/data
 
 # Database Samples
 ![image](https://github.com/ImanGoudarzvand/U-net/blob/master/unet%20pics/0cdf5b5d0ce1_02.jpg)
